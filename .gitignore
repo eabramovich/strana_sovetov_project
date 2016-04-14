@@ -1,0 +1,5 @@
+ENV/
+.cache/
+__pycache__/
+.idea/
+report.html
